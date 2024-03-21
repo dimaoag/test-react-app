@@ -1,5 +1,6 @@
 {
   "name": "your-project-name",
+  "homepage": "https://dimaoag.github.io/test-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
