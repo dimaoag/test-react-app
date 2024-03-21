@@ -1,0 +1,10 @@
+/.idea/
+frontend/.idea/
+api/.idea/
+.env
+/.docker-images-before
+/.docker-images-after
+private.key
+public.key
+.DS_Store
+node_modules/
